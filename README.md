@@ -9,7 +9,7 @@
 - SVG图标，保证清晰度
 
 ## 访问地址
-https://你的用户名.github.io/仓库名/
+https://oyyxdd.github.io/aitry/index.html
 
 ## 本地运行
 直接打开 index.html 文件即可在浏览器中查看效果。
